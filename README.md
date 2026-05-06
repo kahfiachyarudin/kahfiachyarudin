@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Halo, saya Muhammad Kahfi Achyarudin
 
-<!--
-**kahfiachyarudin/kahfiachyarudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah seorang pelajar yang tertarik pada dunia teknologi, khususnya di bidang **Web Development**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tentang Saya
+- 🌱 Saat ini sedang belajar: **Git, JavaScript, dan React**
+- 💡 Tertarik pada: **Frontend Development & Backend Developmnet**
+- 🎯 Tujuan saya: **Menjadi Fullstack Developer**
+- 📫 Hubungi saya: **achyarudinkahfi@gmail.com**
+
+---
+
+## 🛠️ Skill & Tools
+- 💻 Bahasa: HTML, CSS, JavaScript
+- ⚙️ Tools: Git, VS Code, Figma
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kahfiachyarudin&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Sedikit Tentang Saya
+Saya suka belajar hal baru dan terus mengembangkan skill saya di dunia programming.  
+Bagi saya, konsistensi lebih penting daripada kecepatan.
+
+---
+
+## 🤝 Mari Terhubung
+- Instagram: https://instagram.com/sk3choo
+- GitHub: https://github.com/kahfiachyaruind
